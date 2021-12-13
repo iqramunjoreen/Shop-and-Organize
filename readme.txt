@@ -1,3 +1,5 @@
+Implementation of a definite clause theorem prover 
+
 This is a monthly shopping list organizer. Once user has all the items on their list, their monthly shopping is complete.
 
 E.g. shopping_list <-- food & cleaning_supplies & self_care
