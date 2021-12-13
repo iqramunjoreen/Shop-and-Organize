@@ -1,0 +1,43 @@
+shopping_list <-- food & cleaning_supplies & self_care
+
+food <-- frozen & pantry & drinks & fruits & vegetables
+
+cleaning_supplies <-- laundry & kitchen & washroom
+
+self_care <-- shampoo & conditioner & tampons
+
+frozen <-- chicken & beef & fish
+
+pantry <-- rice & spices & bread & pasta
+
+drinks <-- milk & juice
+
+fruits <-- berries & banana
+
+vegetables <-- potato & tomato & broccoli & asparagus & cauliflower
+
+laundry <-- detergent & dryer_sheets
+
+kitchen <-- oven_cleaner & dishwashing_liquid & hand_soap & surface_cleaner
+
+washroom <-- toilet_cleaner & bathtub_cleaner
+
+chicken <-- breast & thighs & drumsticks
+
+beef <-- stewing_beef & minced
+
+fish <-- salmon & basa & tuna
+
+spices <-- salt & pepper & cinnamon & cardamom
+
+milk <-- dairy & cashew
+
+juice <-- apple & orange
+
+berries <-- strawberry & blueberry & raspberry
+
+orange <-- pulp & no_pulp
+
+
+
+
