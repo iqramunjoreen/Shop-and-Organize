@@ -79,6 +79,8 @@ def interpreter():
         print("          infer_all --- update list to find out how many things you have bought from your list!")
         print("          complete --- find out if your monthly shopping is complete")
         print("")
+        print("Type quit to exit organizer. Enjoy!")
+        print("")
         return
     
 
